@@ -1,0 +1,14 @@
+{
+  "name": "online-football-3d-v8",
+  "version": "8.0.0",
+  "private": true,
+  "description": "TV yayın kameralı 3D futbol prototipi, gelişmiş takım AI ve multiplayer sunucusu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
